@@ -38,7 +38,7 @@ function App() {
     if(subTask2!=='')newSub.push(subTask2);
 
     let prevList = JSON.parse(localStorage.getItem('allTasks'));
-    if (prevList.length) {
+    if (prevList && prevList.length) {
       const nxtkey = prevList[prevList.length-1].key;
       const newTask = {
         name: taskName,

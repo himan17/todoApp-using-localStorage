@@ -106,3 +106,13 @@ p{
 .button-4:-webkit-details-marker {
   display: none;
 }
+
+@media screen and (max-width: 1000px) {
+
+  div.instructions {
+  
+  display: none;
+  
+  }
+  
+  }
