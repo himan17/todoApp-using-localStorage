@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoApp-using-localStorage/static/css/main.fbba5b78.css",
+    "main.js": "/todoApp-using-localStorage/static/js/main.5b51fc8e.js",
+    "index.html": "/todoApp-using-localStorage/index.html",
+    "main.fbba5b78.css.map": "/todoApp-using-localStorage/static/css/main.fbba5b78.css.map",
+    "main.5b51fc8e.js.map": "/todoApp-using-localStorage/static/js/main.5b51fc8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbba5b78.css",
+    "static/js/main.5b51fc8e.js"
+  ]
+}
